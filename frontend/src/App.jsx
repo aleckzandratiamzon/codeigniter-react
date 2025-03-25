@@ -4,7 +4,6 @@ import viteLogo from '/vite.svg'
 // import './App.css'
 import axios from 'axios'
 import "bootstrap/dist/css/bootstrap.min.css"
-import Sample from './Sample'
 
 function App() {
 
